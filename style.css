@@ -1,0 +1,9 @@
+#pokemonSprite{
+    display: none;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+    font-size: large;
+}
